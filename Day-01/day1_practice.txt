@@ -1,0 +1,8 @@
+Q1-)learn about data types of python like int,float,string,complex,list,tupple, dictionary,Set, Boolean.
+1-)Write a Program to input 2 numbers & print their sum.
+2-)WAP to input side of a square & print its area.
+3-)WAP to input 2 floating point numbers & print their average.
+4-)WAP to input 2 int numbers, a and b.
+Print True if a is greater than or equal to b. If not print False.
+5-)WAP to enter marks of 3 subjects from the user and store them in a dictionary. Start with
+an empty dictionary & add one by one. Use subject name as key & marks as value.
