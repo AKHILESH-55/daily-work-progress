@@ -1,0 +1,11 @@
+Q-)Learn loops, conditions, and inbuilt function of python.
+1-)WAP to check if a number entered by the user is odd or even.
+2-)WAP to find the greatest of 3 numbers entered by the user.
+3-)WAP to check if a number is a multiple of 7 or not.
+4-)Print the elements of the following list using a loop:
+   [1, 4, 9, 16, 25, 36, 49, 64, 81,100]
+5-)Search for a number x in this tuple using loop:
+    [1, 4, 9, 16, 25, 36, 49, 64, 81,100]
+6-)WAP to input user’s first name & print its length.
+7-)WAP to find the occurrence of ‘$’ in a String.
+
